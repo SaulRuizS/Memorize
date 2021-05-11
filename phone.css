@@ -1,0 +1,9 @@
+.score-button-container h3, .score-button-container button {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid {
+    height: 400px;
+    width: 300px;
+}

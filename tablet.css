@@ -1,0 +1,25 @@
+html {
+    width: 100%;
+    max-width: 820px;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+}
+
+.score-button-container {
+    display: flex;
+    flex-direction: row;
+    margin: 30px auto;
+    justify-content: center;
+}
+
+.grid {
+    position: relative;
+    top: 10px;
+}
+
+.grid-container {
+    height: 700px;
+}
