@@ -30,7 +30,7 @@ If you want to restart the game press on the "Restart" button.
 
 ## Contributing
 
-Feel free to contribute in any formm.
+Feel free to contribute in any form.
 
 ## License
 
